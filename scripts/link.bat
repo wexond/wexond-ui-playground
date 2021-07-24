@@ -1,0 +1,3 @@
+@echo Linking modules...
+
+yarn link @wexond/ui && yarn link react && yarn link react-dom && yarn link @types/react && yarn link @types/react-dom && yarn link styled-components && yarn link @types/styled-components
